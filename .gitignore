@@ -1,0 +1,20 @@
+# See http://www.jetbrains.com/help/idea/2026.1/gitignore.html
+# IDEA specific files
+.idea/
+*.iws
+*.iml
+
+# Maven
+target/
+*.reiml
+
+# Windows
+*.db3
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# OS
+.vscode/
