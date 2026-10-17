@@ -1,4 +1,4 @@
-git add .package tn.esprit.autoloc;
+package tn.esprit.autoloc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
